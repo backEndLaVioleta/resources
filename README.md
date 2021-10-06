@@ -22,3 +22,7 @@ HTTP [responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#succes
 [Utest](https://www.utest.com/)
 
 [login](https://heynode.com/tutorial/process-user-login-form-expressjs/)
+
+[JWT](https://jwt.io/) Authentication
+
+[BCRYPT](https://www.npmjs.com/package/bcrypt)
