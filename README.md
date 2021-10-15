@@ -26,3 +26,16 @@ HTTP [responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#succes
 [JWT](https://jwt.io/) Authentication
 
 [BCRYPT](https://www.npmjs.com/package/bcrypt)
+
+### MySQL
+
+Set up new password through [terminal](https://stackoverflow.com/questions/33467337/reset-mysql-root-password-using-alter-user-statement-after-install-on-mac)
+
+
+### Talleres
+
+[CodeMotion](https://codemotion.com);
+
+How to create a new DB from [terminal](https://www.inmotionhosting.com/support/server/databases/create-a-mysql-database/) MySQL
+
+
