@@ -27,6 +27,18 @@ HTTP [responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#succes
 
 [BCRYPT](https://www.npmjs.com/package/bcrypt)
 
+### BBDD
+
+[Verbos](https://www.ejemplos.co/100-ejemplos-de-verbos-transitivos-e-intransitivos/) transitivos e intrasitivos
+
+[Cardinalidades](http://basededatosaplicado.blogspot.com/2011/10/v-behaviorurldefaultvmlo.html)
+
+[Cardinalidades](https://sites.google.com/site/bdavanzadas168/speaking-evidence/1-4-cardinalidad)
+
+Editor diagramas flujo [online](https://www.yworks.com/yed-live/)
+
+
+
 ### MySQL
 
 Set up new password through [terminal](https://stackoverflow.com/questions/33467337/reset-mysql-root-password-using-alter-user-statement-after-install-on-mac)
@@ -37,5 +49,9 @@ Set up new password through [terminal](https://stackoverflow.com/questions/33467
 [CodeMotion](https://codemotion.com);
 
 How to create a new DB from [terminal](https://www.inmotionhosting.com/support/server/databases/create-a-mysql-database/) MySQL
+
+### Courses 
+
+[BCN-COURSES](https://bcncodes-academy.web.app/courses/courses.html). *A must have!*
 
 
