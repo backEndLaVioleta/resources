@@ -58,4 +58,8 @@ How to create a new DB from [terminal](https://www.inmotionhosting.com/support/s
 
 [BCN-COURSES](https://bcncodes-academy.web.app/courses/courses.html). *A must have!*
 
+[BCN-COURSES II](https://bcncodes-academy-lessons.web.app/)
+
+
+
 
