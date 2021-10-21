@@ -47,6 +47,10 @@ Editor diagramas flujo [online](https://www.yworks.com/yed-live/)
 
 Set up new password through [terminal](https://stackoverflow.com/questions/33467337/reset-mysql-root-password-using-alter-user-statement-after-install-on-mac)
 
+[Tutorial](https://www.mysqltutorial.org/) MySQL
+
+MySQL reference [page](https://dev.mysql.com/doc/refman/8.0/en/join.html)
+
 
 ### Talleres
 
