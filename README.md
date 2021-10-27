@@ -64,6 +64,14 @@ How to create a new DB from [terminal](https://www.inmotionhosting.com/support/s
 
 [BCN-COURSES II](https://bcncodes-academy-lessons.web.app/)
 
+MDN [EXPRESS](https://github.com/mdn/express-locallibrary-tutorial)
+
+IOC [BBDD](https://ioc.xtec.cat/materials/FP/Recursos/fp_asx_m02_/web/fp_asx_m02_htmlindex/index.html)
+
+IOC [JS](https://ioc.xtec.cat/materials/FP/Recursos/fp_daw_m06_/web/fp_daw_m06_htmlindex/index.html)
+
+IOC [RECURSOS](https://ioc.xtec.cat/educacio/recursos#qg9njy5hhlm)
+
 ### Tests
 
 [Test](https://www.testdome.com/tests)
