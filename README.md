@@ -76,6 +76,9 @@ IOC [RECURSOS](https://ioc.xtec.cat/educacio/recursos#qg9njy5hhlm)
 
 [Test](https://www.testdome.com/tests)
 
+Avoid in-Memory Databases for test by [Jaime Bogard](https://jimmybogard.com/avoid-in-memory-databases-for-tests/)
+
+Object Values, Keys, Entries by [Javascript Info](https://javascript.info/keys-values-entries)
 
 
 
