@@ -83,6 +83,12 @@ Avoid in-Memory Databases for test by [Jaime Bogard](https://jimmybogard.com/avo
 Object Values, Keys, Entries by [Javascript Info](https://javascript.info/keys-values-entries)
 
 
+### TypeScript
 
+TypeScript [exercises](https://typescript-exercises.github.io)
 
+Typescript [playground](https://www.typescriptlang.org/play)
 
+TypeScript [bible](https://www.typescriptlang.org)
+
+TypeScript [decorators](https://blog.logrocket.com/a-practical-guide-to-typescript-decorators/)
