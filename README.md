@@ -92,3 +92,10 @@ Typescript [playground](https://www.typescriptlang.org/play)
 TypeScript [bible](https://www.typescriptlang.org)
 
 TypeScript [decorators](https://blog.logrocket.com/a-practical-guide-to-typescript-decorators/)
+
+### Nest
+
+Validators [@GitHub](https://github.com/typestack/class-validator)
+
+[IhateRegex](https://ihateregex.io/)
+
