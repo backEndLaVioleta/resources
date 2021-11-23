@@ -99,3 +99,7 @@ Validators [@GitHub](https://github.com/typestack/class-validator)
 
 [IhateRegex](https://ihateregex.io/)
 
+### Visual Studio Code
+
+[manz dev](https://manz.dev/)
+
