@@ -119,5 +119,9 @@ First code in [GitHub](https://github.com/nestjs/nest/tree/master/sample/23-grap
 
 How to design and price your work for it. [Dribbler](https://dribbble.com/)
 
+### Daily.dev
+
+Api that collects a huge [ammount](https://app.daily.dev/) of blogs in just one place
+
 
 
