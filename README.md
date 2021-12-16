@@ -119,9 +119,19 @@ First code in [GitHub](https://github.com/nestjs/nest/tree/master/sample/23-grap
 
 How to design and price your work for it. [Dribbler](https://dribbble.com/)
 
-### Daily.dev
+### Newsletters
 
-Api that collects a huge [ammount](https://app.daily.dev/) of blogs in just one place
+Api that collects a huge ammount of blogs in just one place. [Daily.dev](https://app.daily.dev/)
+
+[codemotion](https://www.codemotion.com/)
+
+### Jobs
+
+[arc](https://arc.dev/) its specialized in dev works.
+
+
+
+
 
 
 
