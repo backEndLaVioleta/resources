@@ -129,7 +129,7 @@ Api that collects a huge ammount of blogs in just one place. [Daily.dev](https:/
 
 [arc](https://arc.dev/) its specialized in dev works.
 
-    * ##### [Cv](https://jsonresume.org/schema/)
+  jSon [Cv](https://jsonresume.org/schema/)
 
 ### Certifications
 
