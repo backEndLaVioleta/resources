@@ -95,6 +95,8 @@ TypeScript [decorators](https://blog.logrocket.com/a-practical-guide-to-typescri
 
 ### Nest
 
+Oficial [Nestjs](https://docs.nestjs.com/) web page 
+
 Validators [@GitHub](https://github.com/typestack/class-validator)
 
 [IhateRegex](https://ihateregex.io/)
@@ -102,4 +104,20 @@ Validators [@GitHub](https://github.com/typestack/class-validator)
 ### Visual Studio Code
 
 [manz dev](https://manz.dev/)
+
+### Insomnia
+
+[Insomnia](https://docs.insomnia.rest/insomnia/get-started) A back-end test similar to postman
+
+### GraphQl
+
+First code in [GitHub](https://github.com/nestjs/nest/tree/master/sample/23-graphql-code-first) of GraphQl
+
+[GraphQl](https://docs.nestjs.com/graphql/quick-start) with NestJs
+
+### Dribbler
+
+How to design and price your work for it. [Dribbler](https://dribbble.com/)
+
+
 
