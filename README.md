@@ -149,6 +149,8 @@ Integration with [Nestjs](https://docs.nestjs.com/openapi/introduction)
 
 Tutorial by [Saurabh Dashora](https://progressivecoder.com/a-guide-to-nestjs-swagger-configuration/)
 
+Tutorial by [Nick MacHenry](https://codeburst.io/integrating-swagger-with-nestjs-9650594ab728)
+
 
 
 
