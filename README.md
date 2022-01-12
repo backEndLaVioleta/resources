@@ -141,7 +141,13 @@ Api that collects a huge ammount of blogs in just one place. [Daily.dev](https:/
 
 [CodeWars](https://www.codewars.com/)
 
+### Documentation
 
+Swagger oficial [web](https://swagger.io/)
+
+Integration with [Nestjs](https://docs.nestjs.com/openapi/introduction)
+
+Tutorial by [Saurabh Dashora](https://progressivecoder.com/a-guide-to-nestjs-swagger-configuration/)
 
 
 
